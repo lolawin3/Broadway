@@ -1,5 +1,6 @@
 body{text-align: center;
-     font-family: Helvetica;}
+     font-family: Helvetica;
+    font-size: 14px;}
 
 .main{font-size: 18px;
       color: white;
@@ -26,3 +27,5 @@ h3{font-size: 23px;
         background-color: dimgray;
         text-align: left;
         background-position: center;}
+
+#link{color: white;}
